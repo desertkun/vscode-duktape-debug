@@ -1,10 +1,10 @@
 {
     "name": "duk-debug",
     "displayName": "Duktape Debugger",
-    "version": "0.4.1",
+    "version": "0.4.2",
     "description": "Debug Adapter for Duktape runtimes.",
-    "author": "Harold Brenes",
-    "publisher": "HaroldBrenes",
+    "author": "Alex Siryi",
+    "publisher": "Alex Siryi",
     "license": "MIT (See LICENSE.txt)",
     "icon": "img/icon.png",
     "maintainers": [
@@ -27,10 +27,10 @@
     "private": true,
     "repository": {
         "type": "git",
-        "url": "https://github.com/harold-b/vscode-duktape-debug"
+        "url": "https://github.com/desertkun/vscode-duktape-debug"
     },
     "bugs": {
-        "url": "https://github.com/harold-b/vscode-duktape-debug/issues"
+        "url": "https://github.com/desertkun/vscode-duktape-debug/issues"
     },
     "files": [
         "out/**",
